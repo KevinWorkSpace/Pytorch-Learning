@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a14c10-082e-4a37-ad3e-8997304a3364" name="Default Changelist" comment="" />
+    <list default="true" id="a3a14c10-082e-4a37-ad3e-8997304a3364" name="Default Changelist" comment="完成LinearRegression">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YYQ2dskKJ0ICU9gtUAH7x5QqfX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +30,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.LinearRegression">
+    <configuration name="LinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/LinearRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PytorchBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinearRegression" />
         <item itemvalue="Python.PytorchBasics" />
       </list>
     </recent_temporary>
@@ -65,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583116841902</updated>
-      <workItem from="1583116868549" duration="4124000" />
+      <workItem from="1583116868549" duration="6118000" />
+      <workItem from="1583408209873" duration="1214000" />
     </task>
     <servers />
   </component>
@@ -73,26 +106,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1583409401947">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583409401947" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1583117109970">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583117109970" />
-    <state width="1322" height="171" key="GridCell.Tab.0.bottom" timestamp="1583120763473">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1583409145492">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583120763473" />
-    <state width="1322" height="171" key="GridCell.Tab.0.center" timestamp="1583120763473">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583409145492" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1583409145477">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583120763473" />
-    <state width="1322" height="171" key="GridCell.Tab.0.left" timestamp="1583120763457">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583409145477" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1583409145477">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583120763457" />
-    <state width="1322" height="171" key="GridCell.Tab.0.right" timestamp="1583120763473">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583409145477" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1583409145492">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583120763473" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583409145492" />
     <state x="184" y="26" key="SettingsEditor" timestamp="1583117128522">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -100,5 +137,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pytorch_Learning$autograd.coverage" NAME="autograd Coverage Results" MODIFIED="1583120763441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Pytorch_Learning$LinearRegression.coverage" NAME="LinearRegression Coverage Results" MODIFIED="1583409145461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Pytorch_Learning$PytorchBasics.coverage" NAME="PytorchBasics Coverage Results" MODIFIED="1583408815394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
