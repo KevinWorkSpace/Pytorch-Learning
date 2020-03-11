@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a3a14c10-082e-4a37-ad3e-8997304a3364" name="Default Changelist" comment="完成LinearRegression">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FeedForwardNeuralNetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/FeedForwardNeuralNetwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/LinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/LogisticRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PytorchBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/PytorchBasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="272d1f49-b203-4e3f-af8d-b4476ed7219b" />
   <component name="ProjectId" id="1YYQ2dskKJ0ICU9gtUAH7x5QqfX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -36,7 +42,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunManager" selected="Python.FeedForwardNeuralNetwork">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Science\Pytorch Learning\src\Basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ConvolutionalNeuralNetwork">
+    <configuration name="ConvolutionalNeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Intermediate/ConvolutionalNeuralNetwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FeedForwardNeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FeedForwardNeuralNetwork.py" />
+      <option name="SCRIPT_NAME" value="F:\Science\Pytorch Learning\src\Basic\FeedForwardNeuralNetwork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/LinearRegression.py" />
+      <option name="SCRIPT_NAME" value="F:\Science\Pytorch Learning\src\Basic\LinearRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +127,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/LogisticRegression.py" />
+      <option name="SCRIPT_NAME" value="F:\Science\Pytorch Learning\src\Basic\LogisticRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Science\Pytorch Learning\src\PytorchBasics.py" />
+      <option name="SCRIPT_NAME" value="F:\Science\Pytorch Learning\src\Basic\PytorchBasics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,6 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ConvolutionalNeuralNetwork" />
         <item itemvalue="Python.FeedForwardNeuralNetwork" />
         <item itemvalue="Python.LogisticRegression" />
         <item itemvalue="Python.LinearRegression" />
@@ -146,7 +180,9 @@
       <updated>1583116841902</updated>
       <workItem from="1583116868549" duration="6118000" />
       <workItem from="1583408209873" duration="5874000" />
-      <workItem from="1583496029335" duration="3366000" />
+      <workItem from="1583496029335" duration="3798000" />
+      <workItem from="1583826247998" duration="600000" />
+      <workItem from="1583908887291" duration="5387000" />
     </task>
     <task id="LOCAL-00001" summary="完成LinearRegression">
       <created>1583409461773</created>
@@ -175,22 +211,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583117109970" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1583499227619">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1583915658129">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583499227619" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1583499227619">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583915658129" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1583915658128">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583499227619" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1583499227619">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583915658128" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1583915658128">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583499227619" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1583499227619">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583915658128" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1583915658129">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583499227619" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583915658129" />
     <state x="184" y="26" key="SettingsEditor" timestamp="1583413896956">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -209,6 +245,7 @@
     <SUITE FILE_PATH="coverage/Pytorch_Learning$LogisticRegression.coverage" NAME="LogisticRegression Coverage Results" MODIFIED="1583413635915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Pytorch_Learning$LinearRegression.coverage" NAME="LinearRegression Coverage Results" MODIFIED="1583410298429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Pytorch_Learning$FeedForwardNeuralNetwork.coverage" NAME="FeedForwardNeuralNetwork Coverage Results" MODIFIED="1583499222367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Pytorch_Learning$ConvolutionalNeuralNetwork.coverage" NAME="ConvolutionalNeuralNetwork Coverage Results" MODIFIED="1583915658116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Intermediate" />
     <SUITE FILE_PATH="coverage/Pytorch_Learning$PytorchBasics.coverage" NAME="PytorchBasics Coverage Results" MODIFIED="1583408815394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
